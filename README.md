@@ -16,7 +16,7 @@ Perform Classification Analysis and build models using :
     Decision Tree
     Random Forest 
     
-    I calculated and discussed Performance Metrics for these classifiers by preparing Confusion Matrix to look at how our prediction models perform. 
+    I have calculated and discussed Performance Metrics for these classifiers by preparing Confusion Matrix to look at how our prediction models perform. 
     
     I have Split Data into Training and Testing to verify the models built (50/50). 
     
